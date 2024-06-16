@@ -1,4 +1,4 @@
-package com.tns.functionalInterface;
+package com.org.functionalInterface;
 
    @FunctionalInterface
    public interface GreetInterface {

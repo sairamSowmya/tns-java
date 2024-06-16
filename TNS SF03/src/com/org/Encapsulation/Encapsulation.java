@@ -1,4 +1,4 @@
-package com.org.day03july2024;
+package com.org.Encapsulation;
 
 public class Encapsulation 
 {
