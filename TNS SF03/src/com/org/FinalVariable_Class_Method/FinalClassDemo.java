@@ -1,7 +1,7 @@
 //Program to demonstrate final class
 package com.org.FinalVariable_Class_Method;
 
-final class FinalClassDemo {
+ final class FinalClassDemo {
 	void show() {
 		System.out.println("Final class cannot be inherited");
 	}
@@ -11,7 +11,8 @@ final class FinalClassDemo {
 //class FinalChildClass extends FinalClass {
 //}
 
-public class FinalClassDemo {
+@Override
+ public class FinalClassDemo {
 	public static void main(String[] args) {
 		// Create the object of final class
 		FinalClass f1 = new FinalClass(); // Call show() method using object reference variable ab.
